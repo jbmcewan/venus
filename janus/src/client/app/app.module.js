@@ -5,6 +5,7 @@
         'app.core',
         'app.widgets',
         'app.admin',
+        'app.graph',
         'app.dashboard',
         'app.layout'
     ]);
